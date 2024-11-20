@@ -13,7 +13,7 @@ const Section3 = () => {
           <div className=" flex flex-col items-center gap-[50px]">
             {tours.map((el) => {
               return (
-                <div className="relative w-[850px] h-[300px] bg-slate-50 rounded-3xl p-[30px]">
+                <div className="relative w-[400px] xl:w-[850px] h-[300px] bg-slate-50 rounded-3xl p-[30px]">
                   <div className="text-start text-black flex flex-col items-start gap-[30px]">
                     <h1 className="text-[30px]">{el.name}</h1>
                     <p>

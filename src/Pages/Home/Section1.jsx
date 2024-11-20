@@ -4,11 +4,11 @@ import tours from "../../App";
 
 const Section1 = () => {
   return (
-    <div className="h-[700px] container bg-[url('https://s3-alpha-sig.figma.com/img/f81f/d99f/bfae0fdd87d7934e2b2a3a946149f822?Expires=1732492800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pLJl-tmiU1oHmX2z5ExTcQ0Gs4f5Z5P7RCBT2sDSKmTQZPgsZKA-QNSB3U3DOYzUb7dO1PthBLtWmGncmT6zOFuQk-~o5jhOc5W7OqgHTU~BeWZxZE7dsWwFG91tvcuLPhrvDHn3YBu4MuQKPsfKLhmaWFP1auHQbWNXmscTEkb3~02OiV6PTH7qdtdaP9b02PBlxl-SHsuYevdMqfWLMiW25EXCuNbadug4GMh2EQuVnd2Ux6SfIAjXjG~JBf4qN827GzjyAA-SJ9S~K7xnVVWOe8EuTMkvCCdrLv0NXFStNdBPnjoFtZKJEdyQv6tx-LOkWKzTK~jdebQAxCFxmQ__')]">
-      <div className="flex justify-between items-center py-[60px] ">
+    <div className="h-[700px]  container bg-[url('https://s3-alpha-sig.figma.com/img/f81f/d99f/bfae0fdd87d7934e2b2a3a946149f822?Expires=1732492800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pLJl-tmiU1oHmX2z5ExTcQ0Gs4f5Z5P7RCBT2sDSKmTQZPgsZKA-QNSB3U3DOYzUb7dO1PthBLtWmGncmT6zOFuQk-~o5jhOc5W7OqgHTU~BeWZxZE7dsWwFG91tvcuLPhrvDHn3YBu4MuQKPsfKLhmaWFP1auHQbWNXmscTEkb3~02OiV6PTH7qdtdaP9b02PBlxl-SHsuYevdMqfWLMiW25EXCuNbadug4GMh2EQuVnd2Ux6SfIAjXjG~JBf4qN827GzjyAA-SJ9S~K7xnVVWOe8EuTMkvCCdrLv0NXFStNdBPnjoFtZKJEdyQv6tx-LOkWKzTK~jdebQAxCFxmQ__')]">
+      <div className="flex justify-between flex-wrap items-center py-[60px] ">
         <div className="text-white text-center flex flex-col  justify-center items-center gap-[100px]">
           <div>
-            <h1 className="text-[50px]">tourism is a pleasure for the soul</h1>
+            <h1 className="text-[30px] xl:text-[50px]">tourism is a pleasure for the soul</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex,
               consequatur neque voluptatibus maiores perferendis amet ratione

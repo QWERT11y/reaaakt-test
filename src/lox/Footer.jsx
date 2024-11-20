@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='bg-emerald-800 container pt-[80px] pb-[50px]'>
 
-        <div className='flex justify-between items-start'>
+        <div className='flex justify-between items-start flex-wrap gap-[50px]'>
 
         <div className='flex gap-[50px] md:gap-[100px] '>
 

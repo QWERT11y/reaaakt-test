@@ -20,11 +20,11 @@ console.log(card);
       </div>
       </div>
       <div className="w-[400px] flex flex-col gap-5">
-         <h1 className="text-[33px] text-gray-600">Want More?</h1>
+         <h1 className="text-[33px] text-gray-600">Want More? go Home</h1>
          <p className="text-gray-500">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores veniam illo, voluptatibus minus reiciendis ea natus assumenda quia in inventore.</p>
-        <Link to={`Cards`}>
+        <Link to={`/`}>
           <button className="  px-4 py-1 text-gray-600 bg-transparent border-[3px] rounded-xl border-[#4b5563]">
-            More
+            Back
           </button>
           
         </Link>
