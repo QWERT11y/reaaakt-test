@@ -17,7 +17,7 @@ const Header = () => {
       </div>
       {burger && (
         <div className="relative ">
-          <div className=" text-white bg-emerald-900 w-[250px] duration-300 fixed right-0 top-0 flex flex-col items-center justify-center p-[40px] z-20  h-[100vh]">
+          <div className=" text-white bg-emerald-900 w-[350px] duration-300 fixed right-0 top-0 flex flex-col items-center justify-center p-[40px] z-20  h-[100vh]">
             <ul className="flex items-center flex-col gap-7">
               <li>Contact</li>
               <li>Nmadir</li>
